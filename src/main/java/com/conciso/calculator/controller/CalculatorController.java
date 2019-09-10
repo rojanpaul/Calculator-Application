@@ -37,7 +37,7 @@ public class CalculatorController {
 
 	/**
 	 * Purpose : REST API for Performing ADDITION operation
-	 * 
+	 * Here@RequestMapping can also be used 
 	 * @param calculatorSvcRequest
 	 * @return
 	 */
